@@ -1,4 +1,6 @@
 # Stock Price Prediction with LSTM: A Cautionary Tale
+![image](https://github.com/user-attachments/assets/7af5b471-0c1b-437b-abed-8c7b698c70b9)
+![image](https://github.com/user-attachments/assets/e082afb1-00b4-452a-a481-e761045ccbad)
 
 ## Overview
 This project demonstrates how to predict stock prices using a Long Short-Term Memory (LSTM) model in Python. Specifically, it uses Nvidia's (NVDA) stock price data to build a model and forecast future prices. While this process might seem straightforward, there are several caveats to consider that highlight why relying on such models for actual trading can be highly problematic.
